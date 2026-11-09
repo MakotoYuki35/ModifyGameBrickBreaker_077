@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 ### 3. Run the game
 ```bash
-python Brick_Breaker.py or & ".\.venv\Scripts\python.exe" "Brick_Breaker.py" (if the first option doesn't work)
+python Brick_Breaker.py or & ".\.venv\Scripts\python.exe" "Brick_Breaker.py" (if the first option displays a ModuleNotFoundError, use the second option instead)
 ```
 
 ---
