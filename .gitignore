@@ -1,0 +1,19 @@
+# Python virtual environment (NEVER upload to Git)
+.venv/
+venv/
+ENV/
+env/
+
+# Python byte-code & cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary IDE & Editor files
+tempCodeRunnerFile.py
+.vscode/
+.idea/
+
+# Local game saves
+highscore.json
+
